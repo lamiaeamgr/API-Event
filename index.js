@@ -50,10 +50,10 @@ app.get('/api/v1/summit/about', (req, res) => {
   const aboutData = {
     mission: "Future Forward Summit confronts work's greatest disruption since industrialization. As AI redefines roles, we convene cross-sector pioneers to architect intentional systems where technology elevates human potential. This is about creation, not adaptation.",
     whoWeAre: {
-      description: "Born from UM6P's vision for African leadership in the digital economy, Future Forward Summit bridges boardrooms, classrooms, and policy circles. The UM6P Career Center—our anchor—operates as an innovation lab anticipating workforce needs through academic-industry partnerships.",
+      description: "Born from UNE's vision for African leadership in the digital economy, Future Forward Summit bridges boardrooms, classrooms, and policy circles. The UNE Career Center—our anchor—operates as an innovation lab anticipating workforce needs through academic-industry partnerships.",
       link: {
-        text: "Explore UM6P Career Center",
-        url: "/um6p-career-center"
+        text: "Explore UNE Career Center",
+        url: "/UNE-career-center"
       }
     },
     segments: [
